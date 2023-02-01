@@ -14,7 +14,7 @@ bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299&
 count_private=true&show_icons=true&hide_border=true" />
 </picture>
 
-🌱 I’m currently learning
+**🌱 I’m currently learning**
 
 <picture>
 <source  
