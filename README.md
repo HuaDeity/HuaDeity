@@ -17,18 +17,19 @@ count_private=true&show_icons=true&hide_border=true" />
 **🌱 I’m currently learning**
 
 <picture>
-<source  
-  srcset="https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=1&theme=catppuccin_mocha&line1=PyTorch,PyTorch,EE4C2C;"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=1&theme=catppuccin_latte&line1=PyTorch,PyTorch,EE4C2C;"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?
-showBorder=false&lineCount=1&theme=catppuccin_latte&line1=PyTorch,
-PyTorch,EE4C2C;" alt="My Tech Stack" />
+  <source
+    srcset="https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=1&theme=catppuccin_mocha&line1=PyTorch,PyTorch,auto"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=1&theme=catppuccin_mocha&line1=PyTorch,PyTorch,auto"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="hhttps://github-readme-tech-stack.vercel.app/api/cards?
+  showBorder=false&lineCount=1&theme=catppuccin_mocha&line1=PyTorch,
+  PyTorch,auto" />
 </picture>
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2050%20mins-blue)
