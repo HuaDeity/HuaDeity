@@ -14,6 +14,8 @@ bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299&
 count_private=true&show_icons=true&hide_border=true" />
 </picture>
 
+🌱 I’m currently learning
+
 <picture>
 <source  
   srcset="https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=1&theme=catppuccin_mocha&line1=PyTorch,PyTorch,EE4C2C;"
@@ -29,7 +31,6 @@ PyTorch,EE4C2C;" alt="My Tech Stack" />
 </picture>
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 <!--
