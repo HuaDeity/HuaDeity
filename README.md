@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋 Hi there
+
+[![wakatime](https://wakatime.com/badge/user/6cc98766-7a6e-4b0c-8369-d5e53d575b54.svg)](https://wakatime.com/@6cc98766-7a6e-4b0c-8369-d5e53d575b54)
 
 <picture>
 <source  
@@ -14,7 +16,7 @@ bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299&
 count_private=true&show_icons=true&hide_border=true" />
 </picture>
 
-**🌱 I’m currently learning**
+### 🌱 I’m currently learning
 
 <picture>
   <source
@@ -29,6 +31,11 @@ count_private=true&show_icons=true&hide_border=true" />
   showBorder=false&lineCount=1&theme=catppuccin_mocha&line1=PyTorch,
   PyTorch,auto" />
 </picture>
+
+### 📫 How to reach me
+
+[Website](https://yizun.me) | [Twitter](https://twitter.com/HuaDeity) | [Email](mail@yizun.me) |
+<a rel="me" href="https://mastodon.social/@HuaDeity">Mastodon</a>
 
 <!--
 **HuaDeity/HuaDeity** is a ✨ _special_ ✨ repository because its `README.
