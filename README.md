@@ -35,7 +35,7 @@ count_private=true&show_icons=true&hide_border=true" />
 ### 📫 How to reach me
 
 [Website](https://yizun.me) | [Twitter](https://twitter.com/HuaDeity) | [Email](mail@yizun.me) |
-<a rel="me" href="https://nwpu.closed.social/@HuaDeity">Mastodon</a>
+<a rel="me" href="https://mastodon.social/@HuaDeity">Mastodon</a>
 
 <!--
 **HuaDeity/HuaDeity** is a ✨ _special_ ✨ repository because its `README.
