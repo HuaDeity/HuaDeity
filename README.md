@@ -15,6 +15,18 @@
   bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299&show_icons=true&hide_border=true" >
 </picture>
 
+<picture>
+  <source
+    srcset="https://streak-stats.demolab.com?user=HuaDeity&theme=catppuccin-mocha&hide_border=true)](https://git.io/streak-stats"
+    media="(prefers-color-scheme: dark)"
+  >
+  <source
+    srcset="https://streak-stats.demolab.com?user=HuaDeity&theme=catppuccin-latte&hide_border=true)](https://git.io/streak-stats"
+    media="(prefers-color-scheme: light)"
+  >
+  <img src="https://streak-stats.demolab.com?user=HuaDeity&theme=catppuccin-latte&hide_border=true)](https://git.io/streak-stats" >
+</picture>
+
 ### 🌱 I’m currently learning
 
 <picture>
@@ -26,7 +38,7 @@
     srcset="https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=2&theme=catppuccin_latte&line1=PyTorch,PyTorch,auto;Swift,Swift,auto;&line2=electron,Electron,auto;vuedotjs,Vue.js,auto;TailwindCSS,Tailwind%20CSS,auto"
     media="(prefers-color-scheme: light)"
   >
-  <img src="hhttps://github-readme-tech-stack.vercel.app/api/cards?
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?
   showBorder=false&lineCount=2&theme=catppuccin_latte&line1=PyTorch,
   PyTorch,auto;Swift,Swift,auto;&line2=electron,Electron,auto;vuedotjs,Vue.js,auto;TailwindCSS,Tailwind%20CSS,auto" >
 </picture>
