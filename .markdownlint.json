@@ -1,7 +1,6 @@
 {
     "MD033": {
         "allowed_elements": [
-            "picture",
             "a"
         ]
     },

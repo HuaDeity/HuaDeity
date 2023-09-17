@@ -2,37 +2,13 @@
 
 [![wakatime](https://wakatime.com/badge/user/6cc98766-7a6e-4b0c-8369-d5e53d575b54.svg)](https://wakatime.com/@6cc98766-7a6e-4b0c-8369-d5e53d575b54)
 
-<picture>
-<source  
-  srcset="https://ghreadme.huadeity.com/api?username=HuaDeity&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&show_icons=true&hide_border=true"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://ghreadme.huadeity.com/api?username=HuaDeity&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299&show_icons=true&hide_border=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://ghreadme.huadeity.com/api?username=HuaDeity&
-bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299&show_icons=true&hide_border=true" />
-</picture>
+![HuaDeity's Readme Stats](https://ghreadme.huadeity.com/api?username=HuaDeity&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&show_icons=true&hide_border=true#gh-dark-mode-only)
+![HuaDeity's Readme Stats](https://ghreadme.huadeity.com/api?username=HuaDeity&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299&show_icons=true&hide_border=true#gh-light-mode-only)
 
 ### 🌱 I’m currently learning
 
 ![HuaDeity's Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=2&theme=catppuccin_mocha&line1=PyTorch,PyTorch,auto;Swift,Swift,auto;&line2=electron,Electron,auto;vuedotjs,Vue.js,auto;TailwindCSS,Tailwind%20CSS,auto#gh-dark-mode-only)
 ![HuaDeity's Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=2&theme=catppuccin_latte&line1=PyTorch,PyTorch,auto;Swift,Swift,auto;&line2=electron,Electron,auto;vuedotjs,Vue.js,auto;TailwindCSS,Tailwind%20CSS,auto#gh-light-mode-only)
-
-<picture>
-  <source
-    srcset="https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=2&theme=catppuccin_mocha&line1=PyTorch,PyTorch,auto;Swift,Swift,auto;&line2=electron,Electron,auto;vuedotjs,Vue.js,auto;TailwindCSS,Tailwind%20CSS,auto"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=2&theme=catppuccin_latte&line1=PyTorch,PyTorch,auto;Swift,Swift,auto;&line2=electron,Electron,auto;vuedotjs,Vue.js,auto;TailwindCSS,Tailwind%20CSS,auto"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="hhttps://github-readme-tech-stack.vercel.app/api/cards?
-  showBorder=false&lineCount=2&theme=catppuccin_mocha&line1=PyTorch,
-  PyTorch,auto;Swift,Swift,auto;&line2=electron,Electron,auto;vuedotjs,Vue.js,auto;TailwindCSS,Tailwind%20CSS,auto" />
-</picture>
 
 ### 📫 How to reach me
 
