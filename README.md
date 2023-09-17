@@ -17,6 +17,9 @@ bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299&show_icon
 
 ### 🌱 I’m currently learning
 
+![HuaDeity's Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=2&theme=catppuccin_mocha&line1=PyTorch,PyTorch,auto;Swift,Swift,auto;&line2=electron,Electron,auto;vuedotjs,Vue.js,auto;TailwindCSS,Tailwind%20CSS,auto#gh-dark-mode-only)
+![HuaDeity's Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=2&theme=catppuccin_latte&line1=PyTorch,PyTorch,auto;Swift,Swift,auto;&line2=electron,Electron,auto;vuedotjs,Vue.js,auto;TailwindCSS,Tailwind%20CSS,auto#gh-light-mode-only)
+
 <picture>
   <source
     srcset="https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=2&theme=catppuccin_mocha&line1=PyTorch,PyTorch,auto;Swift,Swift,auto;&line2=electron,Electron,auto;vuedotjs,Vue.js,auto;TailwindCSS,Tailwind%20CSS,auto"
