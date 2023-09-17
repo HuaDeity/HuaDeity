@@ -34,7 +34,7 @@ count_private=true&show_icons=true&hide_border=true" />
 
 ### 📫 How to reach me
 
-[Website](https://huadeity.com) | [Blog](https://blog.huadeity.com) | [Email](hello@huadeity.com) | <a rel="me" href="https://mastodon.social/@HuaDeity">Mastodon</a>
+[Website](https://huadeity.com) | [Blog](https://blog.huadeity.com) | [Email](mailto:hello@huadeity.com) | <a rel="me" href="https://mastodon.social/@HuaDeity">Mastodon</a>
 
 <!--
 **HuaDeity/HuaDeity** is a ✨ _special_ ✨ repository because its `README.
