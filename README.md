@@ -4,15 +4,15 @@
 
 <picture>
   <source  
-    srcset="https://ghreadme.huadeity.com/api?username=HuaDeity&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&show_icons=true&hide_border=true"
+    srcset="https://ghreadme.huadeity.com/api?username=HuaDeity&theme=catppuccin_mocha&show_icons=true&hide_border=true"
     media="(prefers-color-scheme: dark)"
   >
   <source
-    srcset="https://ghreadme.huadeity.com/api?username=HuaDeity&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299&show_icons=true&hide_border=true"
+    srcset="https://ghreadme.huadeity.com/api?username=HuaDeity&theme=catppuccin_latte&show_icons=true&hide_border=true"
     media="(prefers-color-scheme: light)"
   >
   <img src="https://ghreadme.huadeity.com/api?username=HuaDeity&
-  bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299&show_icons=true&hide_border=true" >
+  theme=catppuccin_latte&show_icons=true&hide_border=true" >
 </picture>
 
 <picture>
