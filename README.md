@@ -27,7 +27,7 @@
   <img src="https://streak-stats.demolab.com?user=HuaDeity&theme=catppuccin-latte&hide_border=true)](https://git.io/streak-stats" >
 </picture>
 
-### 🌱 I’m currently learning
+<!-- ### 🌱 I’m currently learning
 
 <picture>
   <source
@@ -41,7 +41,7 @@
   <img src="https://github-readme-tech-stack.vercel.app/api/cards?
   showBorder=false&lineCount=2&theme=catppuccin_latte&line1=PyTorch,
   PyTorch,auto;Swift,Swift,auto;&line2=electron,Electron,auto;vuedotjs,Vue.js,auto;TailwindCSS,Tailwind%20CSS,auto" >
-</picture>
+</picture> -->
 
 ### 📫 How to reach me
 
